@@ -38,7 +38,9 @@ Presented The Universal Character System in Saints Row 2 at GDC 2009.
 ## Education
 
 ### PunchCode, Tech Impact 2020
+
 Developed [White Bear](https://oursblanc.herokuapp.com/), a fullstack application that helps users improve their memory by creating flashcards and test themselves using spaced-repitition.
+
 Completed the 12-week course completely remotely: communicating, sharing, and presenting work using Slack, Zoom, Google Docs, and GitHub.
 
 ### Henry Cogswell College 1998-2001
