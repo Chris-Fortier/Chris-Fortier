@@ -12,7 +12,7 @@ Worked on every part of developing Loadout, including: designing wireframes; mak
 
 Wrote several Python programs to accomplish business processes, such as:
 - Generating eBay listings from data entered into Google Sheets.
-- Using the scanned barcode from a slabbed collectible coin to get data from the NGC or PGCS websites, and then generating an eBay listing.
+- Using the scanned barcode from a slabbed collectible coin to get data from the NGC or PCGS websites, and then generating an eBay listing.
 - Keeping inventory and printing barcode labels.
 
 Worked on ad layouts, video editing, and product photography.
@@ -39,7 +39,7 @@ Presented The Universal Character System in Saints Row 2 at GDC 2009.
 
 ### PunchCode, Tech Impact 2020
 
-Developed [White Bear](https://oursblanc.herokuapp.com/), a fullstack application that helps users improve their memory by creating flashcards and test themselves using spaced-repitition.
+Developed [White Bear](https://oursblanc.herokuapp.com/), a fullstack application that helps users improve their memory by creating flashcards and test themselves using spaced-repetition.
 
 Completed the 12-week course completely remotely: communicating, sharing, and presenting work using Slack, Zoom, Google Docs, and GitHub.
 
