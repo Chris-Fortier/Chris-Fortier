@@ -14,6 +14,7 @@ Wrote several Python programs to accomplish business processes, such as:
 - Generating eBay listings from data entered into Google Sheets.
 - Using the scanned barcode from a slabbed collectible coin to get data from the NGC or PGCS websites, and then generating an eBay listing.
 - Keeping inventory and printing barcode labels.
+
 Worked on ad layouts, video editing, and product photography.
 
 ### Freelance 2015-Present
@@ -31,6 +32,7 @@ Worked on five completed video games as a 3D modeler, character artist, and char
 - Red Faction Armageddon
 - Saints Row the Third
 - Saints Row IV
+
 Presented The Universal Character System in Saints Row 2 at GDC 2009.
 
 ## Education
