@@ -10,6 +10,8 @@ Helped design a layout and style guide for [IONnovate.com](http://www.ionnovate.
 
 Designed and developed the fullstack web application [Loadout](https://loadoutapp.herokuapp.com/), where users can create and share nested packing lists. <!--[loadoutapp.herokuapp.com](https://loadoutapp.herokuapp.com/)-->Worked on every part of developing Loadout, including: designing wireframes; making a high-fidelity mockup; creating the front-end with **Bootstrap**, **React**, and **Redux**; creating the back-end with **Node**, **Express**, and **MySQL**; storing data with **Amazon RDS**; and <!--finally -->deploying it to **Heroku**.
 
+## Work Experience
+
 ### IONnovate, LLC 2020-Present
 
 Front-end Developer (intern)
